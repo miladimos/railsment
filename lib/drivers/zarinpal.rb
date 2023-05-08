@@ -1,0 +1,2 @@
+class Zarinpal < Driver
+end

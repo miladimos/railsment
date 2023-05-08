@@ -1,5 +1,5 @@
 # Railsment
-Short description and motivation.
+multi driver iran's payments services for ruby on rails
 
 ## Usage
 How to use my plugin.
